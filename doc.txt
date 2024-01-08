@@ -1,0 +1,5 @@
+A 3x3 grid of buttons for players to make their moves.
+A reset button to start a new game.
+Player tracking to alternate between 'X' and 'O'.
+Winning pattern detection for a conclusive end to the game.
+Responsive design for various screen sizes.
