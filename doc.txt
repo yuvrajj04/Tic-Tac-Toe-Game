@@ -1,3 +1,4 @@
+FEATURES:
 A 3x3 grid of buttons for players to make their moves.
 A reset button to start a new game.
 Player tracking to alternate between 'X' and 'O'.
